@@ -1,6 +1,10 @@
+references:
+  - "https://en.wikipedia.org/wiki/Fiat_500e"
+  - "https://en.wikipedia.org/wiki/Fiat_500_(2007)"
+
 generations:
   - name: "First Generation (Type 312)"
-    start_year: 2013
+    start_year: 2012
     end_year: 2019
     description: "The original Fiat 500e was an electric variant of the conventional 500, developed primarily as a compliance car to meet California's zero-emission vehicle mandate. Despite sharing the body and most design elements with the gasoline-powered 500, it featured significant engineering modifications to accommodate the electric powertrain. Powered by a 24 kWh lithium-ion battery and an 83 kW (111 HP) electric motor driving the front wheels, it offered an EPA-rated range of 87 miles. Performance was surprisingly spirited with 0-60 mph acceleration in about 8.4 seconds. The interior maintained the retro-inspired design of the standard 500 but with model-specific instrumentation displaying charge status and energy flow. Limited primarily to California and Oregon markets, the first-generation 500e was not a commercial focus for Fiat, with then-CEO Sergio Marchionne famously asking customers not to buy it due to the significant financial losses on each unit sold. Despite this, it received positive reviews for its driving dynamics and character, often considered one of the more enjoyable early mainstream EVs to drive."
 
